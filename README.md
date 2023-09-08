@@ -1,8 +1,5 @@
 # ![image](https://user-images.githubusercontent.com/61980545/206457893-c340fbd8-e7c0-4d45-9d4c-6949f05c4128.png)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Upendra_2001.svg?style=social)](https://twitter.com/Upendra_2001)
 
-## Live-App
-https://upendra2001.github.io/Algorithm-Visualizer/
 
 ## Description✌️
 Algorithm Visualizer is a frontend project with built with HTML, CSS and Javascript.
@@ -42,9 +39,6 @@ Star⭐ the repo if you like what you see😉.
 - Custom Input By User 
 
 
-## 🤓 Author(s)
-
-**Upendra Singh Chauhan** [![Twitter Follow](https://img.shields.io/twitter/follow/Upendra_2001.svg?style=social)](https://twitter.com/Upendra_2001)
 
 ## Show your support
 Give a ⭐️ if you like this project 
